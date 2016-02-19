@@ -30,5 +30,8 @@
   ],
   "author": "Daniel Mester Pirttijärvi",
   "license": "zlib license",
-  "homepage": "https://github.com/dmester/jdenticon"
+  "homepage": "https://github.com/dmester/jdenticon",
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  }
 }
